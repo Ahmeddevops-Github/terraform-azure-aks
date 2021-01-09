@@ -5,7 +5,7 @@
 
 ```
 module "aks" {
-  source                       = "../"
+  source                       = ""Ahmeddevops-Github/aks/azure""
   cluster_name                 = "example-aks1"
   kubernetes_version           = "1.18.4"
   node_pool_name               = "node1"
@@ -20,3 +20,10 @@ module "aks" {
   vm_size                      = "Standard_A2_v2"
 }
 ```
+
+
+### Ahmed DevOps ###
+```
+Ahmed Aboagye
+```
+
